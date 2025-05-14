@@ -1,5 +1,3 @@
-Absolutely! Here’s a **minimal, production-ready example** of using [`psycopg`](https://www.psycopg.org/psycopg3/docs/api/copy.html) (version 3+) to stream data into PostgreSQL using the `COPY` command, which is the fastest way to bulk-insert data.
-
 ## 1. **Assume a Table**
 
 Suppose you have a table:

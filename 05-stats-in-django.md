@@ -1,9 +1,3 @@
-Absolutely! The **RabbitMQ Management HTTP API** is the best way to get queue and message stats from RabbitMQ. You can query this API from your Django app using `requests` and display the results in your views or dashboards.
-
-Below is a **Django utility module** and a **sample view** to get you started.
-
----
-
 ## 1. **Install Requests**
 
 ```bash

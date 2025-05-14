@@ -1,12 +1,3 @@
-Absolutely! Here’s a **detailed example** of a `docker-compose.yml` that:
-
-- Runs **multiple instances** of your consumer (scalable, e.g., 3–5 replicas)
-- Uses **automatic restarts** (`restart: always` or `restart: unless-stopped`)
-- Connects to RabbitMQ and Postgres services
-- Is easy to scale up or down
-
----
-
 ## **1. Example `docker-compose.yml`**
 
 ```yaml

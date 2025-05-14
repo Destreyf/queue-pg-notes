@@ -1,7 +1,3 @@
-Absolutely! Here’s a **detailed, annotated guide** to building a **multi-stage Docker image** for your Python consumer, using a [distroless](https://github.com/GoogleContainerTools/distroless) base for the smallest, most secure deployment.
-
----
-
 # 🏗️ Multi-Stage Distroless Docker Build: Step-by-Step
 
 ## **1. Why Multi-Stage and Distroless?**

@@ -1,13 +1,3 @@
-Absolutely! Here’s a **complete, minimal, and customizable example** of a **RabbitMQ consumer** in Python that:
-
-- Consumes messages from a RabbitMQ queue,
-- Batches them up to a configurable size,
-- Uses `psycopg`’s `COPY FROM STDIN` for high-speed bulk insert into PostgreSQL.
-
-This is designed for **maximum throughput** and **easy batch size tuning**.
-
----
-
 ## 1. **Assumptions**
 
 - **RabbitMQ** is running and accessible.

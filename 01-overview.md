@@ -1,7 +1,3 @@
-Absolutely! Here’s a **thorough, step-by-step guide** for setting up a robust, high-throughput queue-based ingestion pipeline using **Python**, **PostgreSQL**, and a **message queue** (RabbitMQ or alternatives), with a focus on **batching**, **dead-letter queues**, and **Dockerized deployment**. This guide assumes the reader is new to these concepts.
-
----
-
 # 1. **Overview**
 
 You want to:

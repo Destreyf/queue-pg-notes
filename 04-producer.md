@@ -1,7 +1,3 @@
-Absolutely! Here’s a **simple, robust Python RabbitMQ producer** that sends JSON messages to a queue. This example is easy to adapt and can be run as a script or imported as a function.
-
----
-
 ## 1. **Install Dependencies**
 
 ```bash
